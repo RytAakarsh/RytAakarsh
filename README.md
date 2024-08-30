@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aakarsh Mishra 
 - 👀 I’m interested in DSA && Full stack web development
 - 🌱 I’m currently learning Data Structure Algorithm in C++ 
-- 📫 How to reach me on my various social media handle mention in my profile 
+- 📫 You can reach me on my various social media handle mention in my profile 
 - 😄 Pronouns: @RytAakarsh
 - ⚡ Fun fact: <<i code & call it engeneering>>
 
