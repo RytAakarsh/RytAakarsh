@@ -4,9 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-blueviolet?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Figma-Designer-orange?style=flat-square&logo=figma" />
+  <img src="https://img.shields.io/badge/Freelance-Developer-red?style=flat-square&logo=freelancer" />
 </p>
+
 
 ---
 
