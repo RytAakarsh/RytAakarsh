@@ -35,21 +35,22 @@
 
 ---
 
+---
+
 ### 🚀 Recent Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Stay Partner](https://github.com/RytAakarsh/Hotel-Booking) | Hotel booking web app with login, search, and reservation features. | MERN Stack, TailwindCSS |
-| [Amazon Clone](https://github.com/RytAakarsh/amazon-clone) | Frontend UI clone of Amazon. | HTML, CSS, JavaScript |
-| [ToDo App](https://github.com/RytAakarsh/todo-app) | Simple task tracker using localStorage. | React, CSS |
+| [Real Estate Website](https://github.com/RytAakarsh/Real-Estate-website) | Responsive real estate listing and search interface. | HTML, CSS, JavaScript |
+| [Music Player](https://github.com/RytAakarsh/music-player) | Web-based audio player with UI and playlist support. | HTML, CSS, JavaScript |
+| [PassionCrafted](https://github.com/RytAakarsh/PassionCrafted) | Showcase platform for curated artwork or creative pieces. | React, CSS Modules |
+| [Disk Scheduling Algo](https://github.com/RytAakarsh/Disk-Scheduling-Algo) | Simulation of disk scheduling algorithms like FCFS, SSTF, and SCAN. | C++, DSA |
 
 ---
 
-### 📝 Latest Blogs
 
-> Coming soon... (You can add links here if you're writing on Medium, Dev.to, Hashnode, or your own blog)
 
----
 
 ### 📊 GitHub Stats
 
