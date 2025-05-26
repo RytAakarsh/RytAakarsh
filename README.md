@@ -42,10 +42,10 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Stay Partner](https://github.com/RytAakarsh/Hotel-Booking) | Hotel booking web app with login, search, and reservation features. | MERN Stack, TailwindCSS |
-| [Real Estate Website](https://github.com/RytAakarsh/Real-Estate-website) | Responsive real estate listing and search interface. | HTML, CSS, JavaScript |
-| [Music Player](https://github.com/RytAakarsh/music-player) | Web-based audio player with UI and playlist support. | HTML, CSS, JavaScript |
-| [PassionCrafted](https://github.com/RytAakarsh/PassionCrafted) | Showcase platform for curated artwork or creative pieces. | React, CSS Modules |
-| [Disk Scheduling Algo](https://github.com/RytAakarsh/Disk-Scheduling-Algo) | Simulation of disk scheduling algorithms like FCFS, SSTF, and SCAN. | C++, DSA |
+| [Real Estate Website](https://github.com/RytAakarsh/Real-Estate-website) | Responsive real estate listing and search interface. | React.js , TailwindCSS , JavaScript |
+| [Music Player](https://github.com/RytAakarsh/music-player) | Web-based audio player with UI and playlist support. | BootStrap , JavaScript |
+| [PassionCrafted](https://github.com/RytAakarsh/PassionCrafted) | Showcase platform for curated artwork or creative pieces. | MERN Stack , CSS Modules |
+| [Disk Scheduling Algo](https://github.com/RytAakarsh/Disk-Scheduling-Algo) | Simulation of disk scheduling algorithms like FCFS, SSTF, and SCAN. | JavaScript , DSA |
 
 ---
 
