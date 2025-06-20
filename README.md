@@ -12,7 +12,7 @@
 
 ### 🌐 About Me
 
-- 🔭 I’m currently working on [Stay Partner](https://github.com/RytAakarsh/Hotel-Booking)  
+- 🔭 I’m currently working on [Quick Stay](https://github.com/RytAakarsh/Hotel-Booking)  
 - 📫 How to reach me: **aakarshmishra70@gmail.com**  
 - 📄 [Check my resume](https://drive.google.com/file/d/1A997JEA0ijtoc_IngokxI83-YWm292sk/view?usp=drivesdk)
 
