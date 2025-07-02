@@ -12,7 +12,7 @@
 
 ### 🌐 About Me
 
-- 🔭 I’m currently working on [Portfolio]([https://github.com/RytAakarsh/Portfolio])  
+- 🔭 I’m currently working on [Portfolio](https://github.com/RytAakarsh/Portfolio)  
 - 📫 How to reach me: **aakarshmishra70@gmail.com**  
 - 📄 [Check my resume](https://drive.google.com/file/d/1H-O6jImDCSUBQyXBO-7RYF87hxGd8Fs0/view?usp=drivesdk)  
 
